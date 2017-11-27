@@ -1,0 +1,31 @@
+#nexttablesection {
+    width: 75%;
+    height: 600px;
+    text-align: center;
+    display: block;
+    margin: auto;
+    background-image: url("../gulv.jpg");
+}
+
+.table {
+    width: 20%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 10%;
+    margin-top: 50px;
+    height: 20%;
+    border-radius: 10px;
+    border: 0px;
+}
+
+.free {
+    background-color: green;
+}
+
+.busy {
+    background-color: red;
+}
+
+reserved {
+    background-color: yellow;
+}
